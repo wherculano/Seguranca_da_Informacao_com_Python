@@ -5,3 +5,4 @@
 # Python Config
 __pycache__/
 .venv
+venv
