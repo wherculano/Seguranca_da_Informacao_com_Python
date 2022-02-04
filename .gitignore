@@ -1,0 +1,7 @@
+# IDE config
+.idea/
+.vscode/
+
+# Python Config
+__pycache__/
+.venv
